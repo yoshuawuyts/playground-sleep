@@ -1,0 +1,10 @@
+{
+  "name": "hypercore-sleep-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "hypercore": "mafintosh/hypercore#sleep",
+    "speedometer": "*",
+    "random-access-file": "*",
+    "prettier-bytes": "*"
+  }
+}
